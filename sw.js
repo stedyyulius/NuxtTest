@@ -8,16 +8,16 @@ const workboxSW = new self.WorkboxSW({
 
 workboxSW.precache([
   {
-    "url": "/_nuxt/app.4322b3c0fb96eabd9d1d.js",
-    "revision": "aa4e0a3ab4055f4c181aa62ddb5505f4"
+    "url": "/_nuxt/app.f90d90a0d4fa9820514f.js",
+    "revision": "2df984e472ecad41950f52cd5cc83faa"
   },
   {
     "url": "/_nuxt/layouts/default.4850f7916aae46733d18.js",
     "revision": "bb8c5451e40ac6c58fa50d6198f93398"
   },
   {
-    "url": "/_nuxt/manifest.7863964ae5921b74e2c5.js",
-    "revision": "8b7c7489704287e50d600e50620f834e"
+    "url": "/_nuxt/manifest.b97e980edd4489f0f8e4.js",
+    "revision": "e612ea7f79c7726af11fc92fe6dfda42"
   },
   {
     "url": "/_nuxt/pages/_id.280e319ce60765b07bda.js",
